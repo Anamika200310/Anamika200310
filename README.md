@@ -32,4 +32,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika200310&show_icons=true&locale=en" alt="anamika200310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika200310&" alt="anamika200310" /></p>
+# Anamika K S - GitHub Contributions
+
+![Anamika's GitHub Contributions](https://ghchart.rshah.org/AnamikaKS)
+
+> GitHub contribution graph generated using [GitHub Contributions Chart](https://github.com/2016rshah/githubchart-api)
+
