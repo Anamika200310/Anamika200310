@@ -34,7 +34,7 @@
 
 # Anamika K S - GitHub Contributions
 
-![Anamika's GitHub Contributions](https://ghchart.rshah.org/AnamikaKS)
+![Anamika's GitHub Contributions](https://ghchart.anamika.org/AnamikaKS)
 
 > GitHub contribution graph generated using [GitHub Contributions Chart](https://github.com/2016rshah/githubchart-api)
 
