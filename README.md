@@ -31,10 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anamika200310&show_icons=true&locale=en&layout=compact" alt="anamika200310" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamika200310&show_icons=true&locale=en" alt="anamika200310" /></p>
-
-# Anamika K S - GitHub Contributions
-
-![Anamika's GitHub Contributions](https://ghchart.anamika.org/AnamikaKS)
-
-> GitHub contribution graph generated using [GitHub Contributions Chart](https://github.com/2016rshah/githubchart-api)
-
