@@ -17,7 +17,7 @@
 
 - 📫 How to reach me *anamikaks162003@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PCqd2KkNcqt0DrstI80SfrvI7LbYaKql/view?usp=drivesdk](https://drive.google.com/file/d/1PCqd2KkNcqt0DrstI80SfrvI7LbYaKql/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1f40pwJfmgek-PfVTT6zemYCq4iArQzIl/view?usp=drivesdk](https://drive.google.com/file/d/1f40pwJfmgek-PfVTT6zemYCq4iArQzIl/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
